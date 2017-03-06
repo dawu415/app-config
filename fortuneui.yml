@@ -1,6 +1,6 @@
 fortuneService:
     scheme: http
-    address:localhost:5000
+    address:https://github.com/dawu415/app-config
     randomFortunePath: api/fortunes/random
     allFortunesPath: api/fortunes/all
 

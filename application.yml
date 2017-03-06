@@ -1,3 +1,12 @@
+Logging:
+  IncludeScopes: false
+  LogLevel:
+    Default: Information
+    System: Information
+    Microsoft: Information
+    Fortune_Teller_Service: Debug
+    Fortune_Teller_UI: Debug
+
 security:
   basic:
     enabled: false

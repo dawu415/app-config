@@ -3,8 +3,8 @@ eureka:
     shouldRegisterWithEureka: false
 
 fortuneService:
-    Scheme: http
-    Address:https://github.com/dawu415/app-config
-    RandomFortunePath: api/fortunes/random
-    AllFortunesPath: api/fortunes/all
+    scheme: http
+    address: https://github.com/dawu415/app-config
+    randomFortunePath: api/fortunes/random
+    allFortunesPath: api/fortunes/all
 

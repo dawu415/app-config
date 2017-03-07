@@ -4,7 +4,7 @@ eureka:
 
 fortuneService:
     scheme: http
-    address: https://github.com/dawu415/app-config
+    address: fortuneservice
     randomFortunePath: api/fortunes/random
     allFortunesPath: api/fortunes/all
 
